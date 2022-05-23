@@ -1,7 +1,7 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import profileImage from "../../assets/profile-image.jpg";
+import profileImage from "../../assets/profile-image.jpeg"
 
 function About() {
     return (
